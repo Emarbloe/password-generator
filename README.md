@@ -8,6 +8,7 @@ Random password generator to ensure secure login for employees.
 * Javascript
 
 ## Website
+https://emarbloe.github.io/password-generator/
 
 
 ## Contribution
