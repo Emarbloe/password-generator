@@ -29,6 +29,12 @@ Random password generator to ensure secure login for employees.
 
 21 December 2020
 
+## Website
+https://emarbloe.github.io/password-generator/
+
+## Repositoty Link
+https://github.com/Emarbloe/password-generator.git
+
 
 
 ## Contribution
