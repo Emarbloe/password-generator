@@ -7,8 +7,6 @@ Random password generator to ensure secure login for employees.
 * CSS
 * Javascript
 
-## Website
-https://emarbloe.github.io/password-generator/
 ## App functioning
 
     GIVEN I need a new, secure password
