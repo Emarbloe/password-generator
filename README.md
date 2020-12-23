@@ -31,13 +31,6 @@ https://emarbloe.github.io/password-generator/
 
 21 December 2020
 
-## Repository link
-git@github.com:Emarbloe/password-generator.git
-
-
-## Web Site Link
-
-https://emarbloe.github.io/password-generator/
 
 
 
